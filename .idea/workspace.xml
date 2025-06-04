@@ -4,10 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c174d967-a433-4a80-86e9-9b2b88889fb4" name="Changes" comment="Tests have been written and the README file has been filled in.">
-      <change afterPath="$PROJECT_DIR$/src/utils.py" afterDir="false" />
+    <list default="true" id="c174d967-a433-4a80-86e9-9b2b88889fb4" name="Changes" comment="Added function for reading from JSON files">
+      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Homework_14_1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Homework_14_1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyproject.toml" beforeDir="false" afterPath="$PROJECT_DIR$/pyproject.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/category.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/category.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/product.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/product.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/utils.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,16 +54,17 @@
     "Python.utils.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "homevork__14__1",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+    "settings.editor.selected.configurable": "com.intellij.pycharm.community.ide.impl.configuration.PythonContentEntriesConfigurable"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\project_NikToo\my_prj\Homework_14_1" />
       <recent name="C:\project_NikToo\my_prj\Homework_14_1\test" />
       <recent name="C:\project_NikToo\my_prj\Homework_14_1\data" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.utils">
+  <component name="RunManager" selected="Python tests.Python tests for test.test_category">
     <configuration name="utils" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Homework_14_1" />
       <option name="ENV_FILES" value="" />
@@ -153,7 +160,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-d7ad00fb9fc3-c546a90a8094-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.23726.102" />
+        <option value="bundled-python-sdk-af26db0dccfe-c546a90a8094-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.26775.22" />
       </set>
     </attachedChunks>
   </component>
@@ -206,14 +213,23 @@
       <option name="project" value="LOCAL" />
       <updated>1748980810797</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Added function for reading from JSON files">
+      <option name="closed" value="true" />
+      <created>1748983837117</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1748983837117</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Homework, creating a project and its structure" />
     <MESSAGE value="Two classes are created: Category, Product" />
     <MESSAGE value="Tests have been written and the README file has been filled in." />
-    <option name="LAST_COMMIT_MESSAGE" value="Tests have been written and the README file has been filled in." />
+    <MESSAGE value="Added function for reading from JSON files" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added function for reading from JSON files" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
